@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋  
 
-<!--
-**MinimalMio/MinimalMio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm MinimalMio!  
 
-Here are some ideas to get you started:
+# Stats  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![MinimalMio's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinimalMio&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,html,css,cpp,java,bash,markdown)](https://github.com/Jurredr/github-widgetbox)  
+
+# Connect with me
+
+ - Email: yukati2024@outlook.com
+ - Telegram: @MinimalMio  
