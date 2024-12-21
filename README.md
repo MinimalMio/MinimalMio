@@ -1,6 +1,7 @@
 # Hi there 👋  
 
-I'm MinimalMio!  
+I'm Kitahashi Sakura!  
+And you can also call me MinimalMio/Mio!
 
 # Stats  
 
@@ -11,4 +12,4 @@ I'm MinimalMio!
 # Connect with me
 
  - Email: yukati2024@outlook.com
- - Telegram: @MinimalMio  
+ - Telegram: @Kitahashi_Sakura  
