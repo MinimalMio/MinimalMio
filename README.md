@@ -7,7 +7,7 @@
 
 # 如何找到我  
 
-E-Mail: kitahashisakura@outlook.com
+E-Mail: kitahashisakura@outlook.com  
 Telegram: @Kitahashi_Sakura  
 
 # 状态  
@@ -15,3 +15,7 @@ Telegram: @Kitahashi_Sakura
 [![MinimalMio's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinimalMio&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,html,css,cpp,java,bash,markdown)](https://github.com/Jurredr/github-widgetbox)  
+
+# 其他规划
+
+学习中：Qt  
