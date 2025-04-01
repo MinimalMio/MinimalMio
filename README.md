@@ -12,7 +12,7 @@ Telegram: @Kitahashi_Sakura
 
 # 状态  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinimalMio&layout=compact&hide=html,css,vbscript)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinimalMio&layout=compact&hide=html,css,vbscript)
 
 [![MinimalMio's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinimalMio&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)   
 
