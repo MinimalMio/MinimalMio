@@ -1,7 +1,7 @@
 # 您好啊~ 👋  
 
 这里是北橋 桜!  
-不过您也可以叫我 MinimalMio/Mio!  
+不过您也可以叫我 MinimalMio 哦~
 
 只是一只笨蛋而已...  
 
@@ -15,8 +15,6 @@ Matrix：kitahashisakura:mozilla.org
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinimalMio&layout=compact&hide=html,css,vbscript)
 
-[![MinimalMio's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinimalMio&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)   
+![MinimalMio's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinimalMio&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)   
 
-# 其他规划
-
-学习中：Qt  
+![MinimalMio's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MinimalMio&langs_count=10)
