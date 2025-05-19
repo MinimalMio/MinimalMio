@@ -11,6 +11,8 @@ E-Mail: kitahashisakura@outlook.com
 Telegram: @Kitahashi_Sakura  
 Matrix：kitahashisakura:mozilla.org  
 
+注：如果你从 Telegram 找我请注明你来自 GitHub，即使不说明也不要直接摆个“你好”而不直接说明来由。
+
 # 状态  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinimalMio&layout=compact&hide=html,css,vbscript)
